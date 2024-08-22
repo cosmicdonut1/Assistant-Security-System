@@ -52,3 +52,6 @@ To run this project, you need Python 3.7 or newer. Make sure to install the requ
 ---
 
 For further information and assistance, please refer to the comments in the source code files.
+
+### License
+Free use, who needs this anyway
